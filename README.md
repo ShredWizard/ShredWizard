@@ -15,7 +15,7 @@ I'm a passionate **Computer Science & Engineering (CSE) 3rd-year student** with 
 
 ## 📫 Let's Connect!
 - 📧 Email: piyushprasad0902@gmail.com
--  [💼 LinkedIn:](https://www.linkedin.com/in/piyush-prasad-2a0b3633a/)
--  [🧑🏻‍💻 HackerRank:](https://www.hackerrank.com/profile/piyushprasad0902)
+- 💼[LinkedIn](https://www.linkedin.com/in/piyush-prasad-2a0b3633a/)
+- 🧑🏻‍💻[HackerRank](https://www.hackerrank.com/profile/piyushprasad0902)
 
 🚀 Open to collaborations and new opportunities!
